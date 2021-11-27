@@ -1,4 +1,4 @@
-# Python-
+# Python包含许多计算并生成统计信息图，包含词云图，曲线图，饼图，柱状图，多角度进行了完整的统计。
 ![image](https://user-images.githubusercontent.com/54580404/116647862-309e0c80-a9ae-11eb-8000-6a7b5c853419.png)
 ![image](https://user-images.githubusercontent.com/54580404/116647869-34ca2a00-a9ae-11eb-858b-217dc91b87ce.png)
 ![image](https://user-images.githubusercontent.com/54580404/116647872-385db100-a9ae-11eb-92cf-6658848d7c7e.png)
